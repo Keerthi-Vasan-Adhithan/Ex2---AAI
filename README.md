@@ -1,7 +1,7 @@
 <H3>Name: KEERTHI VASAN A</H3>
-<H3>Register No:212222240048</H3>
-<H3>Experiment-2</H3>
-<H3>Date:27.2.2024</H3>
+<H3>Register No: 212222240048</H3>
+<H3>Experiment - 2</H3>
+<H3>Date: 27.2.2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## AIM:
