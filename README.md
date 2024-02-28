@@ -1,4 +1,4 @@
-<H3>Name:MITTA KEERTHI VASAN A</H3>
+<H3>Name: KEERTHI VASAN A</H3>
 <H3>Register No:212222240048</H3>
 <H3>Experiment-2</H3>
 <H3>Date:27.2.2024</H3>
